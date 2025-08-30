@@ -16,6 +16,6 @@ instruction/
 *.corrupted_*
 *.jpg
 *.png
-
+*.bat
 # Images (if they are user-specific or private)
 my_QR.png 
